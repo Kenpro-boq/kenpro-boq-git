@@ -53,3 +53,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# ...
+description: > # ย้ายคำอธิบายยาวๆ ขึ้นบรรทัดนี้
+  คู่มือและเอกสารประกอบสำหรับ Engine คำนวณตู้ของเรา
+
+baseurl: /kenpro-boq-git
+# ...

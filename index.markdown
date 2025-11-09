@@ -1,6 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
 ---
+layout: home
+title: หน้าหลักโครงการ
+---
+
+# ยินดีต้อนรับสู่ Documentation Project เฟอร์นิเจอร์
+
+นี่คือศูนย์รวมเอกสารและข้อมูลด้านเทคนิคสำหรับ Engine คำนวณตู้ของเรา
+
+## หัวข้อเอกสารหลัก
+* [โครงสร้างตู้และการคำนวณวัสดุ](/topics/structure)
+* [Shop Drawing และมาตรฐานการผลิต](/topics/shopdrawing)
+
+*เราจะสร้างเอกสารเหล่านี้ในหัวข้อถัดไป*
